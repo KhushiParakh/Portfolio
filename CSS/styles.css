@@ -1,0 +1,212 @@
+.navigation-div{
+  padding: 1.5rem;
+  background-color: #2C3639;
+}
+
+body{
+  background-color: #9CB4CC;
+}
+
+.hey{
+  color: #CDC2AE;
+  font-weight: bold;
+  text-align: right;
+}
+
+.hey:hover{
+  color: white;
+}
+
+.hey:active{
+  color: white;
+}
+
+h1{
+  text-align: center;
+  margin: 4rem;
+  padding: 10%;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color:  #354259;
+}
+
+h4{
+  font-size: 40px;
+  font-family: 'Montserrat-bold', sans-serif;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:800;
+}
+
+.img-cloud-up{
+  position: absolute;
+  margin-left: 950px;
+  margin-top: 100px;
+}
+
+.img-cloud-down{
+  position: absolute;
+  margin-left: 160px;
+  margin-bottom: 20px;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 6px;
+  border-bottom: 0;
+  width: 7%;
+  margin: 0 auto;
+}
+
+#intro-1{
+  margin-top: 20% ;
+  text-align: center;
+  background-color: white;
+  color: #3C2C3E;
+  height: 600px;
+}
+
+#work{
+  margin-top: 10% ;
+  text-align: center;
+  color: #354259;
+  height: 8200px;
+
+}
+
+.carousel{
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.car-img{
+  height: 480px;
+  width: 780px;
+}
+
+.car-cap{
+  margin-top: 30px;
+}
+
+.tony{
+  background-color: white;
+  height: 100px;
+}
+
+.photo-dp{
+  height: 150px;
+  width: 150px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  border-radius: 50%;
+}
+
+.intro-para{
+
+  padding: 50px;
+  margin: 0 auto;
+  margin-top: -30px;
+  margin-bottom: 50px;
+  width: 60%;
+  text-align: center;
+
+}
+
+.what{
+  margin-top: 70px;
+  height: 625px;
+  text-align: center;
+}
+
+.img-cod{
+  float:left;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+
+}
+
+.img-dev{
+  float: right;
+  height: 135px;
+  width: 135px;
+  position: relative;
+  left: 20px;
+}
+
+h5{
+  font-size: 32px;
+}
+
+.h5-title{
+  text-align: left;
+  margin-left: 30px;
+}
+
+.h2-work{
+  margin-bottom: 100px;
+}
+
+.para-1{
+  margin-top: 120px;
+  text-align: left;
+  margin-left: 300px;
+  width: 60%;
+  margin-bottom: 90px;
+}
+
+.para-2{
+  margin-top: 120px;
+  text-align: left;
+  width: 60%;
+  margin-left: 300px;
+}
+
+#copyright{
+  background-color: #9CB4CC;
+  text-align: center;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.fa-brands{
+  margin: 20px 15px;
+  color: black;
+  font-size: 30px;
+
+}
+
+.copy{
+  font-size: 10px;
+  padding: 20px;
+}
+
+.link-img{
+  height: 20px;
+  width: 20px;
+}
+
+#contact{
+  height: 600px;
+  background-color: white;
+  color: #3C2C3E;
+
+}
+
+.h6-1{
+  padding-top: 120px;
+}
+
+.con-1{
+  text-align: center;
+  margin-top: 100px;
+}
